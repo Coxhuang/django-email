@@ -68,7 +68,7 @@ class sendEmailAPI(APIView):
 ## #5 邮箱配置详解
 
 
-### #5.1 配置自己的邮箱地址(xxx.@163.com)
+### #5.1 配置自己的邮箱地址(xxx@163.com)
 ```
 EMAIL_HOST_USER = 'xxx@163.com'  # 发送邮件的邮箱地址
 EMAIL_HOST_PASSWORD = '授权码'  # 发送邮件的邮箱密码(这里使用的是授权码)

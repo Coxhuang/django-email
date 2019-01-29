@@ -63,8 +63,7 @@ class sendEmailAPI(APIView):
 
 **发送成功**
 
-![image](http://note.youdao.com/yws/res/2835/EC5DDF403586405F91C1AB9B015A2F16)
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190129165023309.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NveGh1YW5n,size_16,color_FFFFFF,t_70)
 
 ## #5 邮箱配置详解
 
